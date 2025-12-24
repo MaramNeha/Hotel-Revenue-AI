@@ -52,11 +52,10 @@ The main objective of this project is to:
 ---
 
 ## 📁 Repository Overview
- * Hotel-Revenue-Analytics-PowerBI/
-  -Dataset/ → Raw and processed data files
-  -PowerBI/ → Final Power BI (.pbix) dashboard file
-  -Module-wise analysis and visuals
-  -README.md
+- **Dataset** – Raw and processed data files  
+- **PowerBI** – Final `.pbix` dashboard file  
+- **Modules** – Business logic and analysis breakdown  
+- **Readme.md** –
 ---
 
 ## 🎥 Dashboard Walkthrough Video
