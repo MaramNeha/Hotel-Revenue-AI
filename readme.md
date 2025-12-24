@@ -66,6 +66,11 @@ This video provides a quick walkthrough of the Hotel Revenue Analytics Dashboard
 ▶️ Click below to watch the demo.
 
 
+https://github.com/user-attachments/assets/f11011a8-1df0-4120-90d7-7bf529340e73
+
+
+
+
 ---
 
 ## 🚀 How to Use
