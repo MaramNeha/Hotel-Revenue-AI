@@ -1,0 +1,11 @@
+RoomTypeID,RoomType,Price,MaxOccupancy,Amenities,IsAC,IsSeaFacing,Bed_Type,Room_View,Room_Size_sqm,Max_Occupancy,Smoking_Allowed,Balcony,Floor_Number,Accessible,Wifi_Available,TV_Type,Air_Conditioning,Bathroom_Type,Shower_Type,Cleaning_Frequency
+RT1,Single,2500,1,"WiFi,TV",True,False,Queen,City View,20,1,No,No,1,No,Yes,LED,Yes,Private,Standard,Daily
+RT2,Double,4000,2,"WiFi,TV,MiniBar",True,False,King,Garden View,25,2,No,Yes,2,No,Yes,Smart TV,Yes,Private,Standard,Daily
+RT3,Suite,7500,4,"WiFi,TV,MiniBar,Bathtub",True,True,Twin,Sea View,30,2,No,Yes,2,No,Yes,LED,Yes,Private,Rainfall,Daily
+RT4,Deluxe,5500,3,"WiFi,TV,MiniBar",True,True,King,Pool View,35,2,Yes,Yes,3,No,Yes,Smart TV,Yes,Ensuite,Rainfall,Daily
+RT5,Standard,3800,2,"WiFi, TV",False,False,King,City View,40,3,No,Yes,3,No,Yes,Smart TV,Yes,Ensuite,Rainfall,Daily
+RT6,Premimum,5000,1,"WiFi,TV,MiniBar,Bathtub",True,True,King,Sea View,50,4,No,Yes,5,No,Yes,OLED,Yes,Ensuite,Jacuzzi,Daily
+RT7,Family,6500,4,"WiFi,TV,MiniBar,Bathtub",True,True,Queen,Garden View,45,4,No,Yes,4,No,Yes,LED,Yes,Ensuite,Rainfall,Daily
+RT8,Executive,7000,3,"WiFi,TV,MiniBar,WorkDesk",True,False,King,Mountain View,35,2,No,No,3,No,Yes,LED,Yes,Private,Standard,Every 2 Days
+RT9,Penthouse,15000,6,"WiFi,TV,MiniBar,Bathtub,Jacuzzi",True,True,King,Sea View,70,5,No,Yes,7,No,Yes,OLED,Yes,Ensuite,Jacuzzi,Daily
+RT10,Standard King,4000,2,"WiFi,TV",True,False,Queen,City View,30,2,Yes,No,1,Yes,Yes,LED,Yes,Private,Standard,Daily

@@ -1,0 +1,11 @@
+BranchID,Name,StreetAddress,PostalCode,City,State,Country,ManagerName,Phone,Brand,StarRating,Room_Count,Floors,CheckInTime,CheckOutTime,HasPool,HasConferenceRoom,Amenities,RevenueScore
+B1,Taj Falaknuma Palace,Falaknuma Palace Road,500053,Hyderabad,Telangana,India,Ramesh Sharma,9101234567,Taj Hotels,5,20,4,14:00:00,12:00:00,Yes,Yes,"WiFi, Restaurant, Parking, RoomService, Spa",9.2
+B2,ITC Maratha,"Sahar Road, Andheri East",400099,Mumbai,Maharashtra,India,Priya Desai,9823456789,ITC Hotels,5,35,5,15:00:00,11:00:00,Yes,Yes,"WiFi, Restaurant, Gym, Parking, RoomService",8.9
+B3,The Leela Palace New Delhi,Diplomatic Enclave Road,110021,New Delhi,Delhi,India,Amitabh Singh,9876543210,The Leela Hotels,5,25,6,14:00:00,12:00:00,Yes,Yes,"WiFi, Restaurant, Spa, ValetParking, RoomService",9.5
+B4,Trident Jaipur,Goner Road,302018,Jaipur,Rajasthan,India,Sunita Verma,9812345670,Trident Hotels,5,30,3,14:00:00,11:00:00,Yes,Yes,"WiFi, Restaurant, Parking, RoomService",8.7
+B5,"Vivanta by Taj, Panaji",Miramar Beach Road,403001,Panaji (Goa),Goa,India,Rajesh Kumar,9876123456,Vivanta Hotels,4,15,2,14:00:00,12:00:00,Yes,No,"WiFi, Restaurant, BeachAccess, RoomService",8.1
+B6,The Oberoi Grand Kolkata,Jawaharlal Nehru Road,700071,Kolkata,West Bengal,India,Ananya Mukherjee,9334455667,Oberoi Hotels,5,30,5,15:00:00,11:00:00,Yes,Yes,"WiFi, Restaurant, Spa, Parking, RoomService",9.0
+B7,ITC Grand Chola,Guindy Industrial Estate,600032,Chennai,Tamil Nadu,India,Karthik Reddy,9445566778,ITC Hotels,5,25,7,14:00:00,12:00:00,Yes,Yes,"WiFi, Restaurant, Spa, Gym, Parking, RoomService",9.1
+B8,Taj Malabar,Willingdon Island,682003,Kochi,Kerala,India,Leena Thomas,9567788990,Taj Hotels,5,20,4,14:00:00,11:00:00,Yes,Yes,"WiFi, Restaurant, Pool (waterfront), Parking, RoomService",8.8
+B9,The Leela Palace Bangalore,HAL Airport Road,560008,Bangalore,Karnataka,India,Vikram Nayak,9870098765,The Leela Hotels,5,30,6,15:00:00,12:00:00,Yes,Yes,"WiFi, Restaurant, Spa, Gym, Parking, RoomService",9.3
+B10,The Leela Palace Udaipur,Lake Pichola Road,313001,Udaipur,Rajasthan,India,Meera Sharma,9823344556,The Leela Hotels,5,40,3,14:00:00,11:00:00,Yes,No,"WiFi, Restaurant, LakeView, Parking, RoomService",8.6
